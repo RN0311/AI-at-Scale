@@ -1,5 +1,6 @@
 # AI-at-Scale
-This repo contains code/report of semester project - Neural Network Distillation From BERT
+This repo contains code and report of semester project titled **Distilling knowledge from BERT into Simpler Machine Learning Models**
+
 
 
 
