@@ -6,9 +6,7 @@ As a core task of natural language processing and information retrieval, perform
 
 # Collaborators
 - Praveen Sridhar
-- Rakesh Varma Siri
 - Rashmi Nagpal
-- Ribhu Lahiri
 
 
 
